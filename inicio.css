@@ -17,9 +17,13 @@ body {
   border-radius: 15px;
 }
 
+.user {
+  width: 120px;
+  height: 120px;
+}
 .formulario1 {
   width: 300px;
-  height: 440px;
+  height: 250px;
   background-color: rgba(255, 255, 255, 0.37);
   margin: 0 auto;
   border-radius: 10px;
@@ -91,6 +95,15 @@ p {
 }
 a {
   color: white;
+  margin: 0 0 0 22px;
+  font-family: "Archivo", sans-serif;
+  font-size: 15px;
+}
+.contra {
+  color: #2f2928;
+  margin: 0 0 0 22px;
+  font-family: "Archivo", sans-serif;
+  font-size: 15px;
 }
 
 span {
