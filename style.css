@@ -2,7 +2,9 @@
 @import url("https://fonts.googleapis.com/css2?family=Archivo:wght@500&display=swap%27");
 body {
   background-image: url("background.jpg");
-  background-size: 1535px, 446px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 100%;
   width: 100%;
   height: 1000px;
 }
